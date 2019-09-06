@@ -15,5 +15,6 @@
 	out.println("<h1>"+str+"</h1>");//웹에 출력
 	//document.write("str=>"+str)
 %>
+<%=str%>
 </body>
 </html>
